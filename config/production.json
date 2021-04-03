@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://kishore123:kish123@devconnect.fsla2.mongodb.net/devConnect?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "9c0fc3f2885836c8fe64",
+  "githubSecret": "8f67248d2c169a568e149ee8aa86b27178cf39a3",
+  "githubToken": "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"
+}
